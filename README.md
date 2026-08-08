@@ -64,6 +64,14 @@ A console-based banking system in core Java — demonstrating inheritance, polym
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gauthh-code/gauthh-code/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gauthh-code&color=blueviolet&style=flat" alt="profile views" />
 </p>
