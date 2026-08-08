@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Gautham 👋</h1>
 
-<!--
-**gauthh-code/gauthh-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+React;C+%2F+C%2B%2B+%7C+Java+%7C+SQL;Building+a+Banking+System+in+Core+Java;Next+Stop%3A+Spring+Boot" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://instagram.com/gau.thh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-name/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 💻 Comfortable across the stack: **HTML, CSS, JavaScript, React** on the frontend, **C, C++, Java** for core programming, and **SQL** for data
+- 🌱 Currently deepening **Core Java & OOP design**, on my way to **Spring Boot**
+- 🏦 Recently built a **Banking Management System** in core Java — practicing inheritance, polymorphism, interfaces, encapsulation, and custom exception handling
+- 🎯 Focused on understanding *why* a design decision is made, not just copying code that works
+- 💬 Ask me about exception handling, `BigDecimal` gotchas, or debugging Java class-path errors — I've been through it recently
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+### 📌 Featured Project
+
+**[Banking Management System](https://github.com/gauthh-code/BankingManagementSystem)**
+A console-based banking system in core Java — demonstrating inheritance, polymorphism, interfaces, encapsulation, and custom exception handling through a realistic account/customer/transfer domain model.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauthh-code&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauthh-code&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthh-code&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gauthh-code&color=blueviolet&style=flat" alt="profile views" />
+</p>
