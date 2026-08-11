@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Gautham 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+React;C+%2F+C%2B%2B+%7C+Java+%7C+SQL;Building+a+Banking+System+in+Core+Java;Next+Stop%3A+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+React;C+%2F+C%2B%2B+%7C+Java+%7C+SQL;Next+Stop%3A+Spring+Boot" alt="Typing SVG" />
 </p>
 
 <p align="center">
