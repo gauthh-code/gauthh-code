@@ -15,15 +15,6 @@
 
 ---
 
-### 🚀 About Me
-
-- 💻 Comfortable across the stack: **HTML, CSS, JavaScript, React** on the frontend, **C, C++, Java** for core programming, and **SQL** for data
-- 🌱 Currently deepening **Core Java & OOP design**, on my way to **Spring Boot**
-- 🏦 Recently built a **Banking Management System** in core Java — practicing inheritance, polymorphism, interfaces, encapsulation, and custom exception handling
-- 🎯 Focused on understanding *why* a design decision is made, not just copying code that works
-- 💬 Ask me about exception handling, `BigDecimal` gotchas, or debugging Java class-path errors — I've been through it recently
-
----
 
 ### 🛠️ Tech Stack
 
